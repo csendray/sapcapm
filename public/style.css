@@ -1,0 +1,7 @@
+body { font-family: system-ui, Arial; padding: 1.5rem; background:#f6f8fa; color:#111; }
+main { background:white; padding:1rem 1.5rem; border-radius:8px; max-width:500px; margin: 2rem auto;}
+label { display:block; margin:0.5rem 0; }
+input { width:100%; padding:0.4rem; margin-top:0.25rem; }
+button { margin-top:0.5rem; padding:0.5rem 0.75rem; }
+nav { margin-bottom:1rem; }
+.error { color: #a94442; background:#f2dede; padding:0.5rem; border-radius:4px;}
