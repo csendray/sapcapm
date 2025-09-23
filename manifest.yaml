@@ -1,0 +1,6 @@
+applications:
+  - name: nodeThree
+    memory: 256M        # keep it minimal
+    disk-quota: 512M
+    instances: 1
+    random-route: true
